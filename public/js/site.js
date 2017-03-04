@@ -8,16 +8,14 @@ var bang = {
             'z'
         ];
 
-        var definitions = ['A is for Apple', 'B is for Box', 'C is for Cat', 'D is for Dog', 'E is for Elephant',
-            'F is for Frog', 'G is for Girl', '"H is for Hay', 'I is for Igloo', 'J is for Joke',
-            'K is for King', 'L is for Lion', 'M is for Man', 'N is for Night', 'O is for Open',
-            'P is for Plant', 'Q is for Queen', 'R is for Room', 'S is for Soup', 'T is for Tree',
-            'U is for Up', 'V is for Violin', 'W is for Water', 'X is for Xylophone', 'Y is for Yogurt',
-            'Z is for Zebra'
-        ];
-
-
         function alphabetDefinitions(number) {
+            var definitions = ['A is for Apple', 'B is for Box', 'C is for Cat', 'D is for Dog', 'E is for Elephant',
+                'F is for Frog', 'G is for Girl', 'H is for Hay', 'I is for Igloo', 'J is for Joke',
+                'K is for King', 'L is for Lion', 'M is for Man', 'N is for Night', 'O is for Open',
+                'P is for Plant', 'Q is for Queen', 'R is for Room', 'S is for Soup', 'T is for Tree',
+                'U is for Up', 'V is for Violin', 'W is for Water', 'X is for Xylophone', 'Y is for Yogurt',
+                'Z is for Zebra'
+            ];
             return document.getElementById("definition").innerHTML = definitions[number];
         };
 
