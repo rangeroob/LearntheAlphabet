@@ -16,16 +16,30 @@ var bang = {
                 'U is for Up', 'V is for Violin', 'W is for Water', 'X is for Xylophone', 'Y is for Yogurt',
                 'Z is for Zebra'
             ];
+
             return document.getElementById("definition").innerHTML = definitions[number];
+
         };
+
+        function imageList(number) {
+            var list = ['public/imgs/A.jpg'];
+            document.getElementById("images").height = "200";
+            document.getElementById("images").width = "300";
+            document.getElementById("images").style.display = "block";
+            document.getElementById("images").style.margin = "auto";
+            return document.getElementById("images").src = list[number];
+
+        }
 
         return m("bang", [
             m("h2.w3-center", "Learn the Alphabet"),
             m("h3.w3-center[id='definition']"),
+            m("img[id='images']"),
             m(".w3-container.w3-center.w3-bar",
                 m("button.w3-btn.w3-blue.w3-padding-large", {
                         onclick: (function() {
-                            alphabetDefinitions(0)
+                            alphabetDefinitions(0);
+                            imageList(0);
                         })
 
                     },
