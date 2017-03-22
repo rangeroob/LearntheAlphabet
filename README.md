@@ -9,7 +9,7 @@ I wanted to expand my knowledge of JavaScript and to experience build
 
 ## Contributors
 
-Bug reports and pull requests are welcome on GitHub at[https://github.com/rangeroob/LearntheAlphabet](https://github.com/rangeroob/LearntheAlphabet).
+Bug reports and pull requests are welcome on GitHub at [https://github.com/rangeroob/LearntheAlphabet](https://github.com/rangeroob/LearntheAlphabet).
 
 
     1. Fork it
