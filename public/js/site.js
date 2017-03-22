@@ -42,6 +42,7 @@ var bang = {
             m("h2.w3-center", "Learn the Alphabet"),
             m("h3.w3-center[id='definition']"),
             m("img[id='images']"),
+            m("br"),
             m(".w3-container.w3-center.w3-bar",
                 m("button.w3-btn.w3-blue.w3-padding-large", {
                         onclick: (function() {
