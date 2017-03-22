@@ -1,31 +1,24 @@
-## Synopsis
+## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+This project is to help children learn the English alphabet with real world examples to accompany each letter.
 
-## Code Example
+## Motivation
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+I wanted to expand my knowledge of JavaScript and to experience building a website with a framework. With this Single Page Application I thought of a simple idea to help children learn the alphabet. 
 
-## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+## Contributors
 
-## Installation
+Bug reports and pull requests are welcome on GitHub at https://github.com/rangeroob/LearntheAlphabet.
 
-Provide code examples and explanations of how to get the project.
 
-## API Reference
+    1. Fork it
+    2. Create your feature branch (git checkout -b my-new-feature)
+    3. Commit your changes (git commit -am 'Add some feature')
+    4. Push to the branch (git push origin my-new-feature)
+    5. Create new Pull Request
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+## License
 
-## Tests
+This projects code is license under the MIT License 
 
-Describe and show how to run the tests with code examples.
-
-## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
