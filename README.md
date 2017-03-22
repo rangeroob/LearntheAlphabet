@@ -1,13 +1,13 @@
-## Synopsis
+##Synopsis
 
 This project is to help children learn the English alphabet with real world examples to accompany each letter.
 
-## Motivation
+##Motivation
 
 I wanted to expand my knowledge of JavaScript and to experience building a website with a framework. With this Single Page Application I thought of a simple idea to help children learn the alphabet. 
 
 
-## Contributors
+##Contributors
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/rangeroob/LearntheAlphabet.
 
@@ -18,7 +18,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/ranger
     4. Push to the branch (git push origin my-new-feature)
     5. Create new Pull Request
 
-## License
+##License
 
 This projects code is license under the MIT License 
 
