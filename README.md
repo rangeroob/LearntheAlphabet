@@ -9,7 +9,7 @@ I wanted to expand my knowledge of JavaScript and to experience build
 
 ## Contributors
 
-Bug reports and pull requests are welcome on GitHub at[https://github.com/rangeroob/LearntheAlphabet](https://github.com/rangeroob/LearntheAlphabet).
+Bug reports and pull requests are welcome on GitHub at [https://github.com/rangeroob/LearntheAlphabet](https://github.com/rangeroob/LearntheAlphabet).
 
 
     1. Fork it
@@ -18,7 +18,7 @@ Bug reports and pull requests are welcome on GitHub at[https://github.com/ranger
     4. Push to the branch (git push origin my-new-feature)
     5. Create new Pull Request
 
-##License
+## License
 
 This projects code is license under the MIT License 
 
